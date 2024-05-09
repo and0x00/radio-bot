@@ -1,4 +1,4 @@
 discord.py
-youtube-dl
+yt-dlp
 toml
-ffmpeg-python
+pynacl
